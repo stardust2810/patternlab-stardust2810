@@ -1,0 +1,32 @@
+/*
+ * YOUR STYLES HERE
+ */
+div.nav-bar {
+  /*border: solid 1px blue;*/ /* can be removed */
+  border-radius:1rem;
+  border-bottom-style: groove;
+}
+
+ul.nav-menu {
+  display:flex;
+  justify-content:center; /* center of container */
+  flex-direction: row;
+  list-style-type:none
+}
+
+li.nav-item {
+  margin:0.25rem 1.0rem 0.25rem 1.0rem;
+  padding:0.5rem 0.5rem 0.5rem 0.5rem;
+  border: solid 1px blue; /* can be removed */
+}
+
+a.for-menu:link,a.for-menu:visited,a.for-menu:hover,a.for-menu:active{
+  text-decoration:none;
+}
+
+div.header {
+  display:flex;
+  flex-flow: row nowrap;
+  justify-content:space-between;
+  align-items: flex-end;
+}

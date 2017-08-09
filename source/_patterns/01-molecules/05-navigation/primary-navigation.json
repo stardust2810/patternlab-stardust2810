@@ -1,0 +1,29 @@
+{
+    "navItems":
+    [
+        {
+            "url": "http://facebook.com/",
+            "label": "About"
+        },
+        {
+            "url": "http://twitter.com/",
+            "label": "Workplace"
+        },
+        {
+            "url": "http://plus.google.com/",
+            "label": "Schools"
+        },
+        {
+            "url": "http://plus.google.com/",
+            "label": "Community"
+        },
+        {
+            "url": "http://plus.google.com/",
+            "label": "Healthy Living"
+        },
+        {
+            "url": "http://plus.google.com/",
+            "label": "Partnership"
+        }
+    ]
+}
